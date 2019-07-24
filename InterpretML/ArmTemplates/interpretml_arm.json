@@ -55,7 +55,7 @@
         "nsgId": "[resourceId(resourceGroup().name, 'Microsoft.Network/networkSecurityGroups', variables('nsgName'))]",        
         "vnetID": "[resourceId('Microsoft.Network/virtualNetworks',variables('virtualNetworkName'))]",
         "subnetRef": "[concat(variables('vnetID'),'/subnets/',variables('subnetName'))]",
-        "fileUris": "https://raw.githubusercontent.com/sudhagart/DSTemplates/master/InterpretML/ArmTemplates/vm_configure.sh?token=AAKK52G7PAHUO4GAU4TXYWC5G7IMA",
+        "fileUris": "https://raw.githubusercontent.com/sudhagart/DSTemplates/master/InterpretML/ArmTemplates/vm_configure.sh",
         "command": "bash vm_configure.sh ",
         "adminUsername": "[parameters('adminUsername')]",
         "scriptParameters": "[variables('adminUsername')]",
