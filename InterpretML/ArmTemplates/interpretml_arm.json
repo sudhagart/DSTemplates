@@ -33,7 +33,7 @@
             "metadata": {
                 "description": "Size for the Virtual Machine."
             }
-        },
+        }
     },
     "variables": {
         "location": "[resourceGroup().location]",
