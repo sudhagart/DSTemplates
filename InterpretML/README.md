@@ -1,6 +1,5 @@
 ### Deploy to Azure
-[![Deploy to Azure (SQL Server)](https://raw.githubusercontent.com/Azure/Azure-CortanaIntelligence-SolutionAuthoringWorkspace/master/docs/images/DeployToAzure.PNG)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMicrosoft%2FSQL-Server-R-Services-Samples%2Fmaster%2FChurn%2FArmTemplates%2Fchurn_arm.json)
-
+[![Deploy to Azure (SQL Server)](https://raw.githubusercontent.com/Azure/Azure-CortanaIntelligence-SolutionAuthoringWorkspace/master/docs/images/DeployToAzure.PNG)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsudhagart%2FDSTemplates%2Fmaster%2FInterpretML%2FArmTemplates%2Finterpretml_arm.json%3Ftoken%3DAAKK52G7PAHUO4GAU4TXYWC5G7IMA)
 # InterpretML - Alpha Release
 Equal contributions: Samuel Jenkins & Harsha Nori & Paul Koch & Rich Caruana
 
